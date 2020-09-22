@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /images/
+Sitemap: http://blog.sgdream.cn/sitemap_google.xml
+Sitemap: http://blog.sgdream.cn/baidusitemap.xml
